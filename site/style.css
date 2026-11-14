@@ -78,11 +78,6 @@ h2 {
   width: clamp(48px, 7vw, 64px);
   height: auto;
   flex: none;
-  /* White ring around the logo; content-box so the padding adds to its size instead of shrinking it */
-  box-sizing: content-box;
-  padding: 3px;
-  background: #fff;
-  border-radius: 50%;
   /* Poppins sits a little high in its line box; lift the logo to match the letters' optical centre */
   transform: translateY(-.055em);
 }
