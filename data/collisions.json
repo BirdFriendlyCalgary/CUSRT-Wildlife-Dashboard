@@ -13928,6 +13928,28 @@
 "report": 1176038
 },
 {
+"date": "2026-06-15",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Rock Pigeon",
+"genus": "Columba",
+"family": "Columbidae",
+"family_common": "Pigeons, Doves",
+"source": "CUSRT",
+"report": 1184596
+},
+{
+"date": "2026-06-15",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Unknown",
+"genus": null,
+"family": "Passerellidae",
+"family_common": "New World Sparrows",
+"source": "CUSRT",
+"report": 1184595
+},
+{
 "date": "2026-06-17",
 "animal": "Bird",
 "status": "Alive",
@@ -13994,6 +14016,39 @@
 "report": 1176162
 },
 {
+"date": "2026-07-15",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Chipping Sparrow",
+"genus": "Spizella",
+"family": "Passerellidae",
+"family_common": "New World Sparrows",
+"source": "CUSRT",
+"report": 1184607
+},
+{
+"date": "2026-07-16",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Chipping Sparrow",
+"genus": "Spizella",
+"family": "Passerellidae",
+"family_common": "New World Sparrows",
+"source": "CUSRT",
+"report": 1184599
+},
+{
+"date": "2026-07-16",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Chipping Sparrow",
+"genus": "Spizella",
+"family": "Passerellidae",
+"family_common": "New World Sparrows",
+"source": "CUSRT",
+"report": 1184599
+},
+{
 "date": "2026-07-17",
 "animal": "Bird",
 "status": "Alive",
@@ -14014,6 +14069,160 @@
 "family_common": "Nuthatches",
 "source": "Public",
 "report": 1176670
+},
+{
+"date": "2026-07-20",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Unknown",
+"genus": null,
+"family": null,
+"family_common": null,
+"source": "CUSRT",
+"report": 1184598
+},
+{
+"date": "2026-07-20",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Unknown",
+"genus": null,
+"family": null,
+"family_common": null,
+"source": "CUSRT",
+"report": 1184598
+},
+{
+"date": "2026-07-20",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Unknown",
+"genus": null,
+"family": null,
+"family_common": null,
+"source": "CUSRT",
+"report": 1184598
+},
+{
+"date": "2026-07-24",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Chipping Sparrow",
+"genus": "Spizella",
+"family": "Passerellidae",
+"family_common": "New World Sparrows",
+"source": "CUSRT",
+"report": 1184602
+},
+{
+"date": "2026-07-24",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Chipping Sparrow",
+"genus": "Spizella",
+"family": "Passerellidae",
+"family_common": "New World Sparrows",
+"source": "CUSRT",
+"report": 1184602
+},
+{
+"date": "2026-07-24",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Chipping Sparrow",
+"genus": "Spizella",
+"family": "Passerellidae",
+"family_common": "New World Sparrows",
+"source": "CUSRT",
+"report": 1184602
+},
+{
+"date": "2026-07-24",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Chipping Sparrow",
+"genus": "Spizella",
+"family": "Passerellidae",
+"family_common": "New World Sparrows",
+"source": "CUSRT",
+"report": 1184602
+},
+{
+"date": "2026-07-24",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Chipping Sparrow",
+"genus": "Spizella",
+"family": "Passerellidae",
+"family_common": "New World Sparrows",
+"source": "CUSRT",
+"report": 1184602
+},
+{
+"date": "2026-07-24",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Chipping Sparrow",
+"genus": "Spizella",
+"family": "Passerellidae",
+"family_common": "New World Sparrows",
+"source": "CUSRT",
+"report": 1184603
+},
+{
+"date": "2026-07-24",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Chipping Sparrow",
+"genus": "Spizella",
+"family": "Passerellidae",
+"family_common": "New World Sparrows",
+"source": "CUSRT",
+"report": 1184603
+},
+{
+"date": "2026-07-24",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Chipping Sparrow",
+"genus": "Spizella",
+"family": "Passerellidae",
+"family_common": "New World Sparrows",
+"source": "CUSRT",
+"report": 1184603
+},
+{
+"date": "2026-07-24",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Chipping Sparrow",
+"genus": "Spizella",
+"family": "Passerellidae",
+"family_common": "New World Sparrows",
+"source": "CUSRT",
+"report": 1184604
+},
+{
+"date": "2026-07-24",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Chipping Sparrow",
+"genus": "Spizella",
+"family": "Passerellidae",
+"family_common": "New World Sparrows",
+"source": "CUSRT",
+"report": 1184605
+},
+{
+"date": "2026-07-24",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Unknown",
+"genus": null,
+"family": null,
+"family_common": null,
+"source": "CUSRT",
+"report": 1184606
 },
 {
 "date": "2026-07-26",
@@ -14058,6 +14267,17 @@
 "family_common": "New World Sparrows",
 "source": "CUSRT",
 "report": 1176421
+},
+{
+"date": "2026-07-31",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Red-breasted Nuthatch",
+"genus": "Sitta",
+"family": "Sittidae",
+"family_common": "Nuthatches",
+"source": "CUSRT",
+"report": 1184600
 },
 {
 "date": "2026-08-01",
@@ -14589,6 +14809,17 @@
 },
 {
 "date": "2026-08-25",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Ovenbird",
+"genus": "Seiurus",
+"family": "Parulidae",
+"family_common": "New World Warblers",
+"source": "CUSRT",
+"report": 1176736
+},
+{
+"date": "2026-08-25",
 "animal": "Bat",
 "status": "Alive",
 "species": "Silver-haired Bat",
@@ -14597,17 +14828,6 @@
 "family_common": "Vesper Bats",
 "source": "CUSRT",
 "report": 1176735
-},
-{
-"date": "2026-08-25",
-"animal": "Bird",
-"status": "Deceased",
-"species": "Unknown",
-"genus": null,
-"family": null,
-"family_common": null,
-"source": "CUSRT",
-"report": 1176736
 },
 {
 "date": "2026-08-26",
@@ -14646,10 +14866,10 @@
 "date": "2026-08-27",
 "animal": "Bird",
 "status": "Deceased",
-"species": "Unknown",
-"genus": null,
-"family": null,
-"family_common": null,
+"species": "Pine Siskin",
+"genus": "Spinus",
+"family": "Fringillidae",
+"family_common": "Finches, Euphonias",
 "source": "CUSRT",
 "report": 1176869
 },
@@ -14668,18 +14888,7 @@
 "date": "2026-09-01",
 "animal": "Bird",
 "status": "Deceased",
-"species": "Ovenbird",
-"genus": "Seiurus",
-"family": "Parulidae",
-"family_common": "New World Warblers",
-"source": "CUSRT",
-"report": 1176934
-},
-{
-"date": "2026-09-01",
-"animal": "Bird",
-"status": "Deceased",
-"species": "Unknown",
+"species": "Alder Flycatcher",
 "genus": "Empidonax",
 "family": "Tyrannidae",
 "family_common": "Tyrant Flycatchers, Calyptura",
@@ -14690,12 +14899,23 @@
 "date": "2026-09-01",
 "animal": "Bird",
 "status": "Deceased",
-"species": "Unknown",
-"genus": null,
+"species": "Chestnut-sided Warbler",
+"genus": "Setophaga",
 "family": "Parulidae",
 "family_common": "New World Warblers",
 "source": "CUSRT",
 "report": 1177825
+},
+{
+"date": "2026-09-01",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Ovenbird",
+"genus": "Seiurus",
+"family": "Parulidae",
+"family_common": "New World Warblers",
+"source": "CUSRT",
+"report": 1176934
 },
 {
 "date": "2026-09-04",
@@ -14736,8 +14956,8 @@
 "status": "Deceased",
 "species": "Unknown",
 "genus": null,
-"family": null,
-"family_common": null,
+"family": "Parulidae",
+"family_common": "New World Warblers",
 "source": "CUSRT",
 "report": 1178028
 },
@@ -14751,6 +14971,17 @@
 "family_common": "New World Sparrows",
 "source": "CUSRT",
 "report": 1178108
+},
+{
+"date": "2026-09-09",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Unknown",
+"genus": null,
+"family": "Parulidae",
+"family_common": "New World Warblers",
+"source": "CUSRT",
+"report": 1184550
 },
 {
 "date": "2026-09-09",
@@ -14949,6 +15180,17 @@
 "family_common": "New World Warblers",
 "source": "Public",
 "report": 1180968
+},
+{
+"date": "2026-09-17",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Unknown",
+"genus": null,
+"family": "Parulidae",
+"family_common": "New World Warblers",
+"source": "Public",
+"report": 1184609
 },
 {
 "date": "2026-09-17",
@@ -15840,5 +16082,16 @@
 "family_common": "Nuthatches",
 "source": "CUSRT",
 "report": 1183885
+},
+{
+"date": "2026-11-01",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Brown Creeper",
+"genus": "Certhia",
+"family": "Certhiidae",
+"family_common": "Treecreepers",
+"source": "CUSRT",
+"report": 1184650
 }
 ]
