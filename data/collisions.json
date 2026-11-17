@@ -15138,6 +15138,17 @@
 "report": 1184751
 },
 {
+"date": "2026-09-12",
+"animal": "Bird",
+"status": "Deceased",
+"species": "Unknown",
+"genus": null,
+"family": "Parulidae",
+"family_common": "New World Warblers",
+"source": "CUSRT",
+"report": 1184753
+},
+{
 "date": "2026-09-15",
 "animal": "Bird",
 "status": "Alive",
